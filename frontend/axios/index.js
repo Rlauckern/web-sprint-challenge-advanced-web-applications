@@ -1,4 +1,4 @@
-// ✨ implement axiosWithAuth
+ 
 import axios from 'axios'
 // ✨ implement axiosWithAuth
 
